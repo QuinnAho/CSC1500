@@ -1,0 +1,3 @@
+﻿  Practice.cpp
+C:\Users\quinn.aho\Documents\School\CSC1500\Practice\Practice\Practice.cpp(1,6): error C2143: syntax error: missing ';' before '<<'
+C:\Users\quinn.aho\Documents\School\CSC1500\Practice\Practice\Practice.cpp(1,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
