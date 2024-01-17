@@ -1,8 +1,6 @@
 /*
 Quinn Aho
-
 CSC 1500
-
 Lab 2
 */
 
